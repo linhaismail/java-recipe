@@ -10,7 +10,7 @@ import java.util.stream.IntStream;
 import java.util.stream.LongStream;
 
 /**
- * 
+ * 泛型的使用
  * 
  * @author LinHai
  * @date 2020-11-03 14:03
